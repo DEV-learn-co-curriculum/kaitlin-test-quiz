@@ -1,6 +1,8 @@
 # kaitlin-test-quiz
 ???
 
+qa testing for dummies
+
 # Quiz about Kaitlin
 
 ?: What was the name of Kaitlin's first dog?
