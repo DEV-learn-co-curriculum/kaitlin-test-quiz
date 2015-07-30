@@ -1,5 +1,4 @@
 # kaitlin-test-quiz
-testtest
 ???
 
 # Quiz about Kaitlin
