@@ -3,7 +3,7 @@
 
 # Quiz about Kaitlin Vignali
 
-?: What was the name of Kaitlin's first dog?
+?: What was the name of Kaitlin's first doge?
 
 ( ) Buddy
 ( ) Puddles
