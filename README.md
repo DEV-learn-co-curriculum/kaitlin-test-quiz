@@ -28,4 +28,6 @@
 (X) Ruby for Dummies
 ( ) Harry Potter and the Sorcerer's Stone
 
+This is a quiz about Kaitlin.
+
 ???
