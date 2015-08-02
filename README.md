@@ -28,4 +28,12 @@
 (X) Ruby for Dummies
 ( ) Harry Potter and the Sorcerer's Stone
 
+?: Where has Kaitlin traveled?
+
+[ ] Morocco
+[X] Bocas del Toro
+[X] Spain
+[ ] Portland, Oregon
+[X] Lisbon
+
 ???
