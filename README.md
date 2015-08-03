@@ -1,18 +1,17 @@
-# kaitlin-test-quiztest
+# kaitlin-test-quiz
 ???
 
-# Quiz about Kaitlin Vignali
+# Quiz about Kaitlin
 
-?: What was the name of Kaitlin's first doge?
+?: What was the name of Kaitlin's first dog?
 
 ( ) Buddy
 ( ) Puddles
 ( ) Sweetie
 ( ) Pineapple
 (X) Sandy
-( ) Sassafrass
 
-?: What are Kaitlin's favorite foods? Yummm
+?: What are Kaitlin's favorite foods?
 
 [ ] Raisins
 [X] Pizza
@@ -21,11 +20,10 @@
 [X] Chocolate
 
 
-?: What is Kaitlin's favorite book????
+?: What is Kaitlin's favorite book?
 
 ( ) Canada
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
-( ) Harry Potter and the Sorcerer's Stone
 
 ???
