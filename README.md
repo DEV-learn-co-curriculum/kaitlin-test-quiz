@@ -1,9 +1,9 @@
 # kaitlin-test-quiz
 ???
 
-# Quiz about Kaitlin - the coolest cat
+# Quiz about Kaitlin
 
-?: What was the name of Kaitlin's first dog?
+?: What was the name of Kaitlin's first cat?
 
 ( ) Buddy
 ( ) Puddles
@@ -25,7 +25,5 @@
 ( ) Canada
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
-( ) Harry Potter and the Chamber of Secrets
-
 
 ???
