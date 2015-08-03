@@ -26,4 +26,11 @@
 ( ) To Kill a Mockingbird
 (X) Ruby for Dummies
 
+?: What is Kaitlin's middle name?
+
+( ) Beatrice
+( ) Agnes
+( ) Elizabeth
+(X) Marie
+
 ???
